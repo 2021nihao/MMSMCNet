@@ -28,6 +28,5 @@
 
     "loss": "crossentropy",
     "class_weight": "median_freq_balancing",
-    "备注": " 单DAM  rrtt"
 }
 
